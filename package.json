@@ -1,0 +1,13 @@
+{
+  "name": "nahidul-islam-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal portfolio website for Nahidul Islam — Digital Marketer, SEO Expert & Graphic Designer",
+  "scripts": {
+    "dev": "serve -l 3000 .",
+    "start": "serve -l 3000 ."
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
